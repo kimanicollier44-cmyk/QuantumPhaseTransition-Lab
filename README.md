@@ -1,4 +1,4 @@
-![QuantumPhaseTransition-Lab cover](assets/cover.png)
+![QuantumPhaseTransition-Lab cover](QuantumPhaseTransition-Lab%20cover.png)
 
 # QuantumPhaseTransition-Lab 🌡️⚛️
 
